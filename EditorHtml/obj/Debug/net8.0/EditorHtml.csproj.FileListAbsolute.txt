@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.sourcelink.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\EditorHtml\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll
